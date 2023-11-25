@@ -2,3 +2,5 @@ Hello world!
 
 New content
 Forgot to add something to commit. git commit --amend -m "message" will do the thing
+
+small changes
